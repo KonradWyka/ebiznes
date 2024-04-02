@@ -14,7 +14,7 @@
 Kod: [Folder](https://github.com/KonradWyka/ebiznes/tree/main/zadanie_1)
 
 
-**Zadanie 1** Scala
+**Zadanie 2** Scala
 
 
 :white_check_mark: 3.0 wymaganie 1 
@@ -28,3 +28,18 @@ Kod: [Folder](https://github.com/KonradWyka/ebiznes/tree/main/zadanie_1)
 :x: 5.0 wymaganie 5
 
 Kod: [Folder](https://github.com/KonradWyka/ebiznes/tree/main/zadanie2/Zadanie2)
+
+**Zadanie 3** Ktor
+
+
+:white_check_mark: 3.0 wymaganie 1 [Link do commita1](https://github.com/KonradWyka/ebiznes/commit/4010ea035fbd2443397ba95fe085b754b5426e0b)
+
+:x: 3.5 wymaganie 2 
+
+:x: 4.0 wymaganie 3
+
+:x: 4.5 wymaganie 4
+
+:x: 5.0 wymaganie 5
+
+Kod: [Folder](https://github.com/KonradWyka/ebiznes/tree/main/zadanie_3)
