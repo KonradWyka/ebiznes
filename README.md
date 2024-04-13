@@ -43,3 +43,19 @@ Kod: [Folder](https://github.com/KonradWyka/ebiznes/tree/main/zadanie2/Zadanie2)
 :x: 5.0 wymaganie 5
 
 Kod: [Folder](https://github.com/KonradWyka/ebiznes/tree/main/zadanie_3)
+
+
+**Zadanie 3** Go
+
+
+:white_check_mark: 3.0 wymaganie 1 
+
+:white_check_mark: 3.5 wymaganie 2 
+
+:white_check_mark: 4.0 wymaganie 3 [Link do commita](https://github.com/KonradWyka/ebiznes/commit/ff601d149df76cfa4fdfc6b4bf602d371d7b2868)
+
+:x: 4.5 wymaganie 4
+
+:x: 5.0 wymaganie 5
+
+Kod: [Folder](https://github.com/KonradWyka/ebiznes/tree/main/zadanie_4)
