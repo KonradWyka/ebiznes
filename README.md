@@ -45,7 +45,7 @@ Kod: [Folder](https://github.com/KonradWyka/ebiznes/tree/main/zadanie2/Zadanie2)
 Kod: [Folder](https://github.com/KonradWyka/ebiznes/tree/main/zadanie_3)
 
 
-**Zadanie 3** Go
+**Zadanie 4** Go
 
 
 :white_check_mark: 3.0 wymaganie 1 
