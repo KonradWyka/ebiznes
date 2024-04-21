@@ -1,0 +1,23 @@
+
+.product-comp{
+	width: 80%;
+	background-color: lightgray;
+	margin: 0 auto;
+	padding: 30px;
+  }
+  .produkt {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 10px;
+  }
+  
+  .nazwa {
+	font-size: 18px;
+	font-weight: bold;
+  }
+  
+  .cena {
+	font-size: 16px;
+  }
+  
