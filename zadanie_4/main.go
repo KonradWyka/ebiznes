@@ -1,6 +1,7 @@
 package main
 
 import (
+	"github.com/labstack/echo/v4/middleware"
 	"net/http"
 	"strconv"
 
@@ -36,6 +37,7 @@ func main() {
 	db.AutoMigrate(&Cart{})
 
 	e := echo.New()
+	e.Use(middleware.CORS())
 
 	e.POST("/products", createProduct)
 	e.GET("/products", getProducts)
