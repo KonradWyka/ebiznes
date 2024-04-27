@@ -75,3 +75,19 @@ Kod: [Folder](https://github.com/KonradWyka/ebiznes/tree/main/zadanie_4)
 :x: 5.0 wymaganie 5
 
 Kod: [Folder](https://github.com/KonradWyka/ebiznes/tree/main/zadanie_5)
+
+
+**Zadanie 6** Cypress
+
+
+:white_check_mark: 3.0 wymaganie 1 [Link do commita](https://github.com/KonradWyka/ebiznes/commit/f55c07b839db7ce6b8e1092b3ac77608c1b247dc)
+
+:x: 3.5 wymaganie 2 
+
+:x: 4.0 wymaganie 3
+
+:x: 4.5 wymaganie 4
+
+:x: 5.0 wymaganie 5
+
+Kod: [Folder](https://github.com/KonradWyka/ebiznes/tree/main/zadanie_5)
