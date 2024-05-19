@@ -2,6 +2,7 @@ package main
 
 import (
 	"github.com/labstack/echo/v4/middleware"
+	"log"
 	"net/http"
 	"strconv"
 
@@ -32,9 +33,13 @@ func main() {
 		panic("failed to connect database")
 	}
 
-	db.AutoMigrate(&Product{})
+	if err := db.AutoMigrate(&Product{}); err != nil {
+		log.Fatalf("AutoMigrate Product failed: %v", err)
+	}
 
-	db.AutoMigrate(&Cart{})
+	if err := db.AutoMigrate(&Cart{}); err != nil {
+		log.Fatalf("AutoMigrate Cart failed: %v", err)
+	}
 
 	e := echo.New()
 	e.Use(middleware.CORS())
