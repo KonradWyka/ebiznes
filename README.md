@@ -92,7 +92,7 @@ Kod: [Folder](https://github.com/KonradWyka/ebiznes/tree/main/zadanie_5)
 
 Kod: [Folder](https://github.com/KonradWyka/ebiznes/tree/main/zadanie_5)
 
-**Zadanie 6** Sonar (JS)
+**Zadanie 7** Sonar
 
 
 :white_check_mark: 3.0 wymaganie 1 [Link do commita ](https://github.com/KonradWyka/ebiznes/pull/1/commits/8ef43f3f4fe908e0d5a328e29564acfdfe339e42)
