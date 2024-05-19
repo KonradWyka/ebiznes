@@ -37,9 +37,7 @@ func main() {
 		log.Fatalf("AutoMigrate Product failed: %v", err)
 	}
 
-	if err := db.AutoMigrate(&Cart{}); err != nil {
-		log.Fatalf("AutoMigrate Cart failed: %v", err)
-	}
+	db.AutoMigrate(&Cart{})
 
 	e := echo.New()
 	e.Use(middleware.CORS())
