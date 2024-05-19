@@ -91,3 +91,21 @@ Kod: [Folder](https://github.com/KonradWyka/ebiznes/tree/main/zadanie_5)
 :x: 5.0 wymaganie 5
 
 Kod: [Folder](https://github.com/KonradWyka/ebiznes/tree/main/zadanie_5)
+
+**Zadanie 6** Sonar (JS)
+
+
+:white_check_mark: 3.0 wymaganie 1 [Link do commita ](https://github.com/KonradWyka/ebiznes/pull/1/commits/8ef43f3f4fe908e0d5a328e29564acfdfe339e42)
+
+:white_check_mark: 3.5 wymaganie 2 
+
+:white_check_mark: 4.0 wymaganie 3 
+
+:white_check_mark: 4.5 wymaganie 4 
+
+:white_check_mark: 5.0 wymaganie 5 [Link do commita ](https://github.com/KonradWyka/ebiznes/pull/1/commits/fa8948f6b4b867a6709ea13d6415c870e3c93fd9)
+
+
+<a href="https://sonarcloud.io/dashboard?id=KonradWyka_ebiznes">
+  <img src="https://sonarcloud.io/api/project_badges/measure?project=KonradWyka_ebiznes&metric=alert_status" alt="SonarQube Quality Gate">
+</a>
