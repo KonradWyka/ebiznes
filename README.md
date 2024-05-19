@@ -109,3 +109,18 @@ Kod: [Folder](https://github.com/KonradWyka/ebiznes/tree/main/zadanie_5)
 <a href="https://sonarcloud.io/dashboard?id=KonradWyka_ebiznes">
   <img src="https://sonarcloud.io/api/project_badges/measure?project=KonradWyka_ebiznes&metric=alert_status" alt="SonarQube Quality Gate">
 </a>
+
+**Zadanie 8** Oauth2
+
+
+:white_check_mark: 3.0 wymaganie 1
+
+:white_check_mark: 3.5 wymaganie 2  [Link do commita ](https://github.com/KonradWyka/ebiznes/commit/8ec1d3b66ac1e0aabfae562f2c8931e41777832f)
+
+:x: 4.0 wymaganie 3 
+
+:x: 4.5 wymaganie 4 
+
+:x: 5.0 wymaganie 5
+
+Kod: [Folder](https://github.com/KonradWyka/ebiznes/tree/main/zadanie_8)
