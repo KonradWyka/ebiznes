@@ -44,11 +44,13 @@ func main() {
 	e := echo.New()
 	e.Use(middleware.CORS())
 
+	const productURL = "/products/:id"
+
 	e.POST("/products", createProduct)
 	e.GET("/products", getProducts)
-	e.GET("/products/:id", getProduct)
-	e.PUT("/products/:id", updateProduct)
-	e.DELETE("/products/:id", deleteProduct)
+	e.GET(productURL, getProduct)
+	e.PUT(productURL, updateProduct)
+	e.DELETE(productURL, deleteProduct)
 
 	e.POST("/carts", addToCart)
 
