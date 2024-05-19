@@ -52,7 +52,9 @@ func main() {
 
 	e.POST("/carts", addToCart)
 
-	e.Start(":8080")
+	if err := e.Start(":8080"); err != nil {
+		log.Fatalf("Echo server failed to start: %v", err)
+	}
 }
 
 func createProduct(c echo.Context) error {
