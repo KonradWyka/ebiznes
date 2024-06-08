@@ -124,3 +124,19 @@ Kod: [Folder](https://github.com/KonradWyka/ebiznes/tree/main/zadanie_5)
 :x: 5.0 wymaganie 5
 
 Kod: [Folder](https://github.com/KonradWyka/ebiznes/tree/main/zadanie_8)
+
+
+**Zadanie 9** ChatGPT bot
+
+
+:white_check_mark: 3.0 wymaganie 1
+
+:white_check_mark: 3.5 wymaganie 2  [Link do commita ](https://github.com/KonradWyka/ebiznes/commit/df80c8366086c03f057a72c95e079afa2a307371)
+
+:x: 4.0 wymaganie 3 
+
+:x: 4.5 wymaganie 4 
+
+:x: 5.0 wymaganie 5
+
+Kod: [Folder](https://github.com/KonradWyka/ebiznes/tree/main/zadanie_9/project)
