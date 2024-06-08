@@ -13,7 +13,7 @@ def chat():
 
     try:
         logging.debug(f"Sending request to Ollama server with input: {user_message}")
-        # Using Ollama Python library to send the message to the Ollama server
+
         response = ollama.chat(model='llama3', messages=[{'role': 'user', 'content': user_message}])
         response_message = response['message']['content']
         logging.debug(f"Response from Ollama server: {response_message}")

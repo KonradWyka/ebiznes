@@ -8,7 +8,7 @@ CORS(app)
 
 logging.basicConfig(level=logging.DEBUG)
 
-SERVER_URL = "http://localhost:5000/api/chat"  # The URL of your server
+SERVER_URL = "http://localhost:5000/api/chat"
 
 @app.route('/')
 def index():
