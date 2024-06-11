@@ -12,6 +12,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
       - name: Navigate to frontend directory
         run: |
           cd zadanie_5  # Nawigacja do katalogu zawierającego frontend
@@ -19,25 +24,11 @@ jobs:
           npm install
           npm run build
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: '14'
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Build Frontend
-        run: npm run build
-
   build-backend:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-
-      - name: Navigate to backend directory
-        run: cd zadanie_4
 
       - name: Set up Go
         uses: actions/setup-go@v2
@@ -45,4 +36,6 @@ jobs:
           go-version: 1.16
 
       - name: Build Backend
-        run: go build -o main .
+        run: |
+          cd zadanie_4
+          go build -o main .
