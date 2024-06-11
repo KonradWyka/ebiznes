@@ -13,9 +13,6 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Navigate to frontend directory
-        run: cd ../..
-
-      - name: Navigate to frontend directory
         run: cd zadanie_5
 
       - name: Set up Node.js
@@ -34,9 +31,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-
-      - name: Navigate to backend directory
-        run: cd ../..
 
       - name: Navigate to backend directory
         run: cd zadanie_4
