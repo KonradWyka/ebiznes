@@ -140,3 +140,18 @@ Kod: [Folder](https://github.com/KonradWyka/ebiznes/tree/main/zadanie_8)
 :x: 5.0 wymaganie 5
 
 Kod: [Folder](https://github.com/KonradWyka/ebiznes/tree/main/zadanie_9/project)
+
+
+**Zadanie 10** Chmura/CI
+
+
+:white_check_mark: 3.0 wymaganie 1  [Link do strony ](https://purple-coast-0b171761e.5.azurestaticapps.net/)
+
+:white_check_mark: 3.5 wymaganie 2  [Link do commita ](https://github.com/KonradWyka/ebiznes/actions)
+
+:x: 4.0 wymaganie 3 
+
+:x: 4.5 wymaganie 4 
+
+:x: 5.0 wymaganie 5
+
